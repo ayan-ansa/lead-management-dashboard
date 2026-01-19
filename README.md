@@ -11,7 +11,7 @@ node server.js or npm start
 ```bash
 cd frontend
 npm i
-npm install lucide-react recharts clsx tailwindcss @tailwindcss/vite
+npm install lucide-react recharts tailwindcss @tailwindcss/vite
 # To run the frontend 
 npm run dev
 
